@@ -4,7 +4,7 @@
 
 ## Code and Resources Used
 
-**Dart Version:** 2.19.2
+**Dart Version:** 2.19.2<br>
 **Course:** [fireship.io](https://fireship.io/courses/dart/)
 **Articles:**
 

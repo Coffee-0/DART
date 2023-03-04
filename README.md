@@ -1,1 +1,1 @@
-# HelloDart
+A simple command-line application.
